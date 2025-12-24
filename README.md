@@ -1,6 +1,8 @@
 # BiteBoond
 
-Week 1: The "Foundation & Persistence" Sprint
+Week 1: The "Foundation & Persistence" Sprint --
+
+
 Day 1: Scaffolding & The Map (Navigation)
 Today is about setting the "Rules of the House."
 
